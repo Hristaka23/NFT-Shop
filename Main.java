@@ -60,7 +60,7 @@ public class Main {
                         p1.checkBalance(p1);
                         System.out.println("You have "+ p1.getVolumeOfZCoins()+" ZCoins!");
                     } else {
-                        System.out.println("Wrong command!");
+                        System.out.println("Wrong command!!");
                     }
                     storeMenu = AllMenus.storeMenu(scan);
                 }
