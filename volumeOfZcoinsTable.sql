@@ -1,0 +1,1 @@
+SELECT * FROM registered_people.only_volume_of_zcoins;
